@@ -1,1 +1,8 @@
-this is going to be a json file
+{
+  "Bread" : ["Whole Wheat", "Rye", "Pumpernickle", "Sour Dough", "Ciabatta", "White", "Multigrain", "Sub", "Croissant"],
+  "Topping" : ["Tomato", "Lettuce", "Bell Peppers", "Romaine Lettuce", "Jalepeno", "Spinach", "Onions", "Banana Peppers"],
+  "Cheese" : ["Cheddar", "Gouda", "Swiss", "Provolone", "Greuyere", "Mozzerella", "Muenster", "Bleu", "Gorgonzolla"],
+  "Meat" : ["Turkey", "Ham", "Salami", "Roast Beef", "Steak", "Grilled Chicken", "Tuna", "Bacon", "Pepperoni", "Sausage", "Pulled Pork"],
+  "Vegan" : ["Bell Peppers", "Guacamole", "Jackfruit", "Tofu", "Egg", "Avacado"],
+  "Sauce" : ["Mayonaise", "Garlic Aioli", "Chipotle Aioli", "Barbeque Sauce", "Ranch Dressing", "Hot Sauce", "Ketchup", "Mustard", "Buffalo Sauce"]
+}
