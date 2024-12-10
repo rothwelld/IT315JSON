@@ -2,8 +2,7 @@
   "Rows":
   [
     {"rowID":1,"rowName":"Carnivore Sandwich","rowSubtitle":"Don't mess with what works!","imgURL":"https://raw.githubusercontent.com/rothwelld/IT315JSON/refs/heads/main/meat.jpg","veggie":false},
-    {"rowID":2,"rowName":"Vegetarian Sandwich","rowSubtitle":"It's the current year!","imgURL":"https://raw.githubusercontent.com/rothwelld/IT315JSON/refs/heads/main/vegan.jpg","veggie":true},
-    {"rowID":3,"rowName":"Find a Sandwich","rowSubtitle":"I want one, but don't want to cook!","imgURL":"https://raw.githubusercontent.com/rothwelld/IT315JSON/refs/heads/main/meat.jpg","veggie":false}
+    {"rowID":2,"rowName":"Vegetarian Sandwich","rowSubtitle":"It's the current year!","imgURL":"https://raw.githubusercontent.com/rothwelld/IT315JSON/refs/heads/main/vegan.jpg","veggie":true}
   ],
   "Status":"OK"
 }
